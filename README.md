@@ -5,4 +5,4 @@
 ## ✅ Gerenciamento de notas
 ## ✅ Gerenciamento de relatórios
 ## ✅ Gerenciamento de gastos
-## ✅ Visualizar relátoiros de classe
+## ✅ Visualizar relatórios de classe
